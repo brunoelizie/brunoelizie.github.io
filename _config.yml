@@ -3,12 +3,12 @@ title: Pedido de Casamento
 email: ""
 description: "Preparações para o casamento"
 url: "http://brunoelizie.github.io"
-baseurl: /brunoelizie.github.io
-instagram_username: ""
-github_username:  ""
-deviantart_username: ""
-flickr_username: ""
-discus_shortname: ""
+# baseurl: /brunoelizie.github.io
+#instagram_username: ""
+#github_username:  ""
+#deviantart_username: ""
+#flickr_username: ""
+#discus_shortname: ""
 share: true
 
 # Owner/author information
